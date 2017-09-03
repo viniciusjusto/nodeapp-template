@@ -1,0 +1,1 @@
+// Define a model, example: mongoose schema
